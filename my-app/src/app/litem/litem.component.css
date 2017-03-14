@@ -1,0 +1,11 @@
+.box{
+    width: 42%;
+    padding: 2%;
+    background-color:hotpink;
+    line-height: 100px;
+    min-height: 100px;
+    margin: 2%;
+    text-align: center;
+    font-size: 100px;
+    float:left; 
+}
